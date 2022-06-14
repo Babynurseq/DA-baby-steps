@@ -18,7 +18,7 @@ I cleaned the data using excel on my laptop to remove duplicates and errors
 
 #Results
 ------
-1. 2014 had the highest discounts and hence the highest number of units were sold
+1. 2014 had the highest discounts hence the highest number of units were sold
 2. Government had the highest sales price
 3. United states had the highest sales
 
